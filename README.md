@@ -1,0 +1,3 @@
+# Unhandled Database Error in Express.js Application
+
+This repository demonstrates a common error in Express.js applications: unhandled errors during database operations.  The original code lacks proper error handling, causing the application to crash when the database query fails. The solution shows how to gracefully handle such errors, preventing application crashes and returning appropriate error responses to clients.
